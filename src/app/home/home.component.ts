@@ -9,6 +9,7 @@ import { CommonModule } from '@angular/common';
     <p>
       home works!
     </p>
+   
   `,
   styleUrls: ['./home.component.css']
 })

@@ -7,7 +7,7 @@ import { HomeComponent } from './home/home.component';
   imports: [HomeComponent],
   template: `<main>
                 <header class="brand-name">
-                  <i class="bi bi-house-heart-fill"></i>
+               <img src="/assets/house-fill.svg">
                 </header>
 
                 <section class="content">
