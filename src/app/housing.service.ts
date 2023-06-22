@@ -96,16 +96,6 @@ export class HousingService {
       availableUnits: 10,
       wifi: false,
       laundry: false
-    },
-    {
-      id: 9,
-      name: 'Capital Safe Towns',
-      city: 'Portland',
-      state: 'OR',
-      photo: '/assets/home4.jpg',
-      availableUnits: 6,
-      wifi: true,
-      laundry: true
     }
   ];
 
