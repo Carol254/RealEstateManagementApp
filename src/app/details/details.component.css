@@ -1,13 +1,12 @@
 .listing-photo {
-    height: 600px;
     width: 50%;
-    object-fit: cover;
+    object-fit:cover;
     border-radius: 30px;
     float: right;
   }
-  
+ 
   .listing-heading {
-    font-size: 48pt;
+    font-size: 24pt;
     font-weight: bold;
     margin-bottom: 15px;
   }

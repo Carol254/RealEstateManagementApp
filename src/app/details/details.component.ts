@@ -13,7 +13,7 @@ import { Housinglocation } from '../housinglocation';
     <img class="listing-photo" [src]="housingLocation?.photo"
       alt="Exterior photo of {{housingLocation?.name}}"/>
     <section class="listing-description">
-      <h2 class="listing-heading">{{housingLocation?.name}}</h2>
+      <h5 class="listing-heading">{{housingLocation?.name}}</h5>
       <p class="listing-location">{{housingLocation?.city}}, {{housingLocation?.state}}</p>
     </section>
     <section class="listing-features">
