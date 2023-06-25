@@ -20,8 +20,8 @@ import { Housinglocation } from '../housinglocation';
       <h2 class="section-heading">About this housing location</h2>
       <ul>
         <li>Units available: {{housingLocation?.availableUnits}}</li>
-        <li>Does this location have wifi: {{housingLocation?.wifi}}</li>
-        <li>Does this location have laundry: {{housingLocation?.laundry}}</li>
+        <li>Does this location have wifi?{{housingLocation?.wifi}}</li>
+        <li>Does this location have laundry?{{housingLocation?.laundry}}</li>
       </ul>
     </section>
   </article>
