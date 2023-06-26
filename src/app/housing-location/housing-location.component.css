@@ -29,3 +29,12 @@
     content: "\203A";
     margin-left: 5px;
   }
+  .details-link{
+    background-color: var(--primary-color);
+    color: var(--accent-color);
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 5px;
+    border-radius: 7px;
+  }
