@@ -64,6 +64,7 @@ export class DetailsComponent {
     });
   }
 
+  
   submitApplication() {
     this.housingService.submitApplication(
       this.applyForm.value.firstName ?? '',
